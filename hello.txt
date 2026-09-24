@@ -2,6 +2,10 @@
 
 
 
+<<<<<<< HEAD
 
 
 line 6
+=======
+4 linezxcvbnm,.aldkf==``
+>>>>>>> b3213317d9c59ea74371a19121a3d9ab3cd8a1a1
